@@ -56,8 +56,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/remixicon@4.9.1/icons/Logos/github-fill.svg" height="40" alt="github logo" font-size="1.5rem" />
-  <img src="https://cdn.jsdelivr.net/npm/remixicon@4.9.1/icons/Logos/nodejs-line.svg" height="40" alt="github logo" font-size="1.5rem" background-color="gray"/>
+  https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 </div>
 
 
