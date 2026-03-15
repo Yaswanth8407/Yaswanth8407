@@ -56,7 +56,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/npm/remixicon@4.9.1/icons/Logos/github-fill.svg" height="40" alt="github logo" font-size="1.5rem" />
+  <img src="https://cdn.jsdelivr.net/npm/remixicon@4.9.1/icons/Logos/nodejs-line.svg" height="40" alt="github logo" font-size="1.5rem" background-color="gray"/>
 </div>
 
 
