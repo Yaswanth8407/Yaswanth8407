@@ -86,6 +86,36 @@
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logoColor=black" alt="Power BI" />
 </div>
 
+## GitHub Stats
+
+<div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app?user=Yaswanth8407&theme=dark&hide_border=true&background=0D1117&ring=3B82F6&fire=60A5FA&currStreakLabel=93C5FD&sideNums=93C5FD&currStreakNum=60A5FA&sideLabels=8B98A5&dates=6B7280&stroke=3B82F6" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-eight.vercel.app?user=Yaswanth8407&theme=default&hide_border=true&background=FFFFFF&ring=1D4ED8&fire=2563EB&currStreakLabel=1E3A8A&sideNums=1E3A8A&currStreakNum=2563EB&sideLabels=475569&dates=64748B&stroke=1D4ED8" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Yaswanth8407&theme=dark&hide_border=true&background=0D1117&ring=3B82F6&fire=60A5FA&currStreakLabel=93C5FD&sideNums=93C5FD&currStreakNum=60A5FA&sideLabels=8B98A5&dates=6B7280&stroke=3B82F6" alt="GitHub Streak Stats" />
+</picture>
+
+<!-- </div> -->
+
+<!-- <div align="center"> -->
+
+<!-- <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Yaswanth8407&show_icons=true&hide_border=true&theme=transparent&bg_color=0D1117&title_color=60A5FA&icon_color=3B82F6&text_color=8B98A5&ring_color=93C5FD" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Yaswanth8407&show_icons=true&hide_border=true&theme=transparent&bg_color=FFFFFF&title_color=1D4ED8&icon_color=2563EB&text_color=475569&ring_color=1E3A8A" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yaswanth8407&show_icons=true&hide_border=true&theme=transparent&bg_color=0D1117&title_color=60A5FA&icon_color=3B82F6&text_color=8B98A5&ring_color=93C5FD" alt="GitHub Stats" />
+</picture> -->
+
+<!-- <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaswanth8407&layout=compact&hide_border=true&theme=transparent&bg_color=0D1117&title_color=60A5FA&text_color=8B98A5" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaswanth8407&layout=compact&hide_border=true&theme=transparent&bg_color=FFFFFF&title_color=1D4ED8&text_color=475569" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaswanth8407&layout=compact&hide_border=true&theme=transparent&bg_color=0D1117&title_color=60A5FA&text_color=8B98A5" alt="Top Languages" />
+</picture>
+
+</div>
+
+
+</div> -->
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
