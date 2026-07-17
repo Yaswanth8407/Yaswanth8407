@@ -1,4 +1,4 @@
-<div>
+<div align="center">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hey%20%F0%9F%91%8B%20What's%20up?&fontSize=55&fontColor=F4C430&fontAlign=50&fontAlignY=70&rotate=0&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
@@ -17,6 +17,7 @@
 <h4 align="left">🚀Hi, I'm Yaswanth - a curious developer</h4>
 
 ###
+<h2></h2>
 
 <h2 align="left">About me</h2>
 
@@ -30,19 +31,7 @@
 
 ###
 
-<h2 align="left">Contact me👇</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/mattaparthi_yaswanth/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /></a>
-  <a href="https://www.linkedin.com/in/yaswanth8407/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
-  <a href="mailto:mattaparthiyaswanth8407@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
-  <a href="https://x.com/yaswanth8407"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  /></a>
-</div>
-
-###
-
+<h2></h2>
 <h2 align="left">Tech I work with</h2>
 
 **Languages**
@@ -52,6 +41,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </div>
+<h2></h2>
 
 **Frontend**
 <div align="left">
@@ -61,6 +51,7 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black" alt="EJS" />
 </div>
+<h2></h2>
 
 **Backend**
 <div align="left">
@@ -68,6 +59,7 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
 </div>
+<h2></h2>
 
 **Databases**
 <div align="left">
@@ -76,6 +68,7 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
 </div>
+<h2></h2>
 
 **Tools & Platforms**
 <div align="left">
@@ -85,39 +78,31 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logoColor=black" alt="Power BI" />
 </div>
+<h2></h2>
 
 ## GitHub Stats
-
-<div>
-
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app?user=Yaswanth8407&theme=dark&hide_border=true&background=0D1117&ring=3B82F6&fire=60A5FA&currStreakLabel=93C5FD&sideNums=93C5FD&currStreakNum=60A5FA&sideLabels=8B98A5&dates=6B7280&stroke=3B82F6" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-eight.vercel.app?user=Yaswanth8407&theme=default&hide_border=true&background=FFFFFF&ring=1D4ED8&fire=2563EB&currStreakLabel=1E3A8A&sideNums=1E3A8A&currStreakNum=2563EB&sideLabels=475569&dates=64748B&stroke=1D4ED8" />
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=Yaswanth8407&theme=dark&hide_border=true&background=0D1117&ring=3B82F6&fire=60A5FA&currStreakLabel=93C5FD&sideNums=93C5FD&currStreakNum=60A5FA&sideLabels=8B98A5&dates=6B7280&stroke=3B82F6" alt="GitHub Streak Stats" />
 </picture>
-
-<!-- </div> -->
-
-<!-- <div align="center"> -->
-
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Yaswanth8407&show_icons=true&hide_border=true&theme=transparent&bg_color=0D1117&title_color=60A5FA&icon_color=3B82F6&text_color=8B98A5&ring_color=93C5FD" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Yaswanth8407&show_icons=true&hide_border=true&theme=transparent&bg_color=FFFFFF&title_color=1D4ED8&icon_color=2563EB&text_color=475569&ring_color=1E3A8A" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Yaswanth8407&show_icons=true&hide_border=true&theme=transparent&bg_color=0D1117&title_color=60A5FA&icon_color=3B82F6&text_color=8B98A5&ring_color=93C5FD" alt="GitHub Stats" />
-</picture> -->
-
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaswanth8407&layout=compact&hide_border=true&theme=transparent&bg_color=0D1117&title_color=60A5FA&text_color=8B98A5" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaswanth8407&layout=compact&hide_border=true&theme=transparent&bg_color=FFFFFF&title_color=1D4ED8&text_color=475569" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaswanth8407&layout=compact&hide_border=true&theme=transparent&bg_color=0D1117&title_color=60A5FA&text_color=8B98A5" alt="Top Languages" />
-</picture>
-
 </div>
 
+<h2 align="left">Contact me👇</h2>
 
-</div> -->
+###
 
-<div>
+<div align="center">
+  <a href="https://www.instagram.com/mattaparthi_yaswanth/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /></a>
+  <a href="https://www.linkedin.com/in/yaswanth8407/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
+  <a href="mailto:mattaparthiyaswanth8407@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
+  <a href="https://x.com/yaswanth8407"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  /></a>
+</div>
+
+<h2></h2>
+
+<div align="center">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
