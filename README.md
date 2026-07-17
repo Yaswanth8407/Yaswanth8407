@@ -22,7 +22,11 @@
 
 ###
 
-<p align="left">📚 Currently learning: Modern web dev & clean coding practices<br>⚡Focus: Building projects and leveling up skills<br>🎯 Goals: Contribute to open source, improve problem solving and build real-world projects<br>🎲 Fun fact: I learn faster by building than reading about them</p>
+<p align="left">
+  📚 Working through Striver's A-Z DSA sheet in C++ — daily LeetCode practice<br>
+  ⚡Focus: Backend developer on **Prompterest**, getting it ready to ships<br>
+  🎯 Goals: Contribute to open source, improve problem solving and build real-world projects<br>
+  🎲 Fun fact: I learn faster by building than reading about them</p>
 
 ###
 
